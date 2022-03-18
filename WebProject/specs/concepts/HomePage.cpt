@@ -1,0 +1,3 @@
+# Arama alanına <text> yazılır ve arama işlemi yapılır
+* <text> textini "SearchInput" elemente yaz ve enter yap
+* "3" saniye bekle

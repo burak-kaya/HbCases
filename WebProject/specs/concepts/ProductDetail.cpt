@@ -1,0 +1,17 @@
+# Detay sayfasında değerlendirmeler tabına tıklanır
+* Elementine tıkla "ProductDetail_ReviewTabButton"
+
+# İlk değerlendirme beğenilir ve teşekkür ederiz texti görülür
+* "ProductDetail_ReviewLikeButton" elementini bulana kadar aşağı kaydır, bulamazsa hata verme
+* Üründe yorum varsa ilk yorum beğenilir ve teşekkür mesajı kontrol edilir
+
+# Sırala dropdownuna tıklanır
+* "ProductDetail_SortDropdown" elementini bulana kadar aşağı kaydır, bulamazsa hata verme
+* Elementine tıkla "ProductDetail_SortDropdown"
+
+# Sırala dropdownu altındaki sıralama seçeneklerinin görüldüğü kontrol edilir
+* Element var mı kontrol et "ProductDetail_SortDropdown_Varsayilan"
+* Element var mı kontrol et "ProductDetail_SortDropdown_EnYeniDegerlendirme"
+* Element var mı kontrol et "ProductDetail_SortDropdown_EnFaydaliDegerlendirme"
+* Element var mı kontrol et "ProductDetail_SortDropdown_PuanaGoreAzalan"
+* Element var mı kontrol et "ProductDetail_SortDropdown_PuanaGoreArtan"

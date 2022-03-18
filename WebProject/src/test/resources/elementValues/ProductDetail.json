@@ -1,0 +1,57 @@
+[
+  {
+    "key": "ProductDetail_ReviewTabButton",
+    "value": "#reviewsTabTrigger",
+    "type": "css"
+  },
+  {
+    "key": "ProductDetail_ReviewLikeButton",
+    "value": "//div[@class='paginationContentHolder']//span[text()='Bu değerlendirme faydalı mı?']/following-sibling::div//div[contains(@class, 'thumbsUp')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ProductDetail_ThanksSpan",
+    "value": "//span[contains(text(),'Teşekkür Ederiz')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ProductDetail_SortDropdown",
+    "value": "//div[text()='Sırala']/following-sibling::*/div[contains(@class,'hermes-Dropdown-module')]",
+    "type": "xpath"
+  },
+  {
+    "key": "ProductDetail_SortDropdown_Varsayilan",
+    "value": "//div[text()='Sırala']/following-sibling::*/div[contains(@class,'hermes-Dropdown-module')]//div[text()='Varsayılan']",
+    "type": "xpath"
+  },
+  {
+    "key": "ProductDetail_SortDropdown_EnYeniDegerlendirme",
+    "value": "//div[text()='Sırala']/following-sibling::*/div[contains(@class,'hermes-Dropdown-module')]//div[text()='En yeni değerlendirme']",
+    "type": "xpath"
+  },
+  {
+    "key": "ProductDetail_SortDropdown_EnFaydaliDegerlendirme",
+    "value": "//div[text()='Sırala']/following-sibling::*/div[contains(@class,'hermes-Dropdown-module')]//div[text()='En faydalı değerlendirme']",
+    "type": "xpath"
+  },
+  {
+    "key": "ProductDetail_SortDropdown_PuanaGoreAzalan",
+    "value": "//div[text()='Sırala']/following-sibling::*/div[contains(@class,'hermes-Dropdown-module')]//div[text()='Puana göre azalan']",
+    "type": "xpath"
+  },
+  {
+    "key": "ProductDetail_SortDropdown_PuanaGoreArtan",
+    "value": "//div[text()='Sırala']/following-sibling::*/div[contains(@class,'hermes-Dropdown-module')]//div[text()='Puana göre artan']",
+    "type": "xpath"
+  }
+]
+
+
+
+
+
+
+
+
+
+
